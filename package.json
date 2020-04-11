@@ -1,0 +1,17 @@
+{
+  "name": "phone-store-backend",
+  "version": "1.0.0",
+  "description": "The backend for the phones ecomm website made using React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Sanket",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.8.9"
+  }
+}
